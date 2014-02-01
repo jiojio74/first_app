@@ -6,6 +6,7 @@
     ----------------------------------------------------------------- 
 
 
+
 Welcome to your Rails app on Cloud9 IDE!
 
 Check out the following guide points to get started with your Rails application:
